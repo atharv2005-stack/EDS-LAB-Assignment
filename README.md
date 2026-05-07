@@ -11,33 +11,33 @@
 
 ## Repository Contents
 
-This repository contains:
-
-1. Preskilet Video
-2. CISCO Certificate
-3. EDS Laboratory Assignments
-4. Repository Screenshots
-5. Presentation PPT
+1. Preskilet Video  
+2. CISCO Certificate  
+3. IBM Certificate  
+4. EDS Laboratory Assignments  
+5. Presentation PPT  
 
 ---
 
-## Folder Details
+## Folder Links
 
-### 📁 Cisco-Certificate
+### 📁 [Cisco-Certificate](./Cisco-Certificate)
 Contains CISCO course completion certificate.
 
-### 📁 Preskilet-Video
+### 📁 [IBM-Certificate](./IBM-Certificate)
+Contains IBM course completion certificate.
+
+### 📁 [Preskilet-Video](./Preskilet-Video)
 Contains Preskilet video link.
 
-### 📁 Lab-Assignments
+### 📁 [Lab-Assignments](./Lab-Assignments)
 Contains all EDS laboratory assignments.
 
-### 📁 PPT
+### 📁 [PPT](./PPT)
 Contains presentation PPT file.
 
 ---
 
-## Preskilet Video Link
+## Preskilet Video
 
-```text
-https://youtu.be/Y9nzcTcFD0A?si=aFchXYMcbQilcIdN
+▶️ [Watch Video](https://youtu.be/Y9nzcTcFD0A?si=aFchXYMcbQilcIdN)
