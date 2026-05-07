@@ -2,8 +2,8 @@
 
 ## Student Information
 
-- Name: YOUR NAME
-- Roll Number: YOUR ROLL NUMBER
+- Name: Harshvardhan Lokhande
+- PRN: 202501090156
 - Department: Mechanical Engineering
 - Subject: EDS Laboratory
 
