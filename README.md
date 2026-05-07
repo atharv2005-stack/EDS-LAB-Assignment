@@ -17,6 +17,7 @@ This repository contains:
 2. CISCO Certificate
 3. EDS Laboratory Assignments
 4. Repository Screenshots
+5. Presentation PPT
 
 ---
 
@@ -26,7 +27,7 @@ This repository contains:
 Contains CISCO course completion certificate.
 
 ### 📁 Preskilet-Video
-Contains Preskilet video link or related file.
+Contains Preskilet video link.
 
 ### 📁 Lab-Assignments
 Contains all EDS laboratory assignments.
@@ -34,11 +35,12 @@ Contains all EDS laboratory assignments.
 ### 📁 Screenshots
 Contains screenshots of the GitHub repository.
 
+### 📁 PPT
+Contains presentation PPT file.
+
 ---
 
-## GitHub Repository Link
-
-Add your GitHub repository link here after uploading:
+## Preskilet Video Link
 
 ```text
-https://github.com/your-username/EDS-Lab-Assignments
+https://youtu.be/Y9nzcTcFD0A?si=aFchXYMcbQilcIdN
