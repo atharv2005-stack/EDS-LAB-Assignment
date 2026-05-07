@@ -32,9 +32,6 @@ Contains Preskilet video link.
 ### 📁 Lab-Assignments
 Contains all EDS laboratory assignments.
 
-### 📁 Screenshots
-Contains screenshots of the GitHub repository.
-
 ### 📁 PPT
 Contains presentation PPT file.
 
