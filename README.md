@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- Name: Harshvardhan Lokhande
+- Name: Atharv Bramhankar
 - PRN: 202501090156
 - Department: Mechanical Engineering
 - Subject: EDS Laboratory
